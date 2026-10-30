@@ -1,0 +1,87 @@
+Nachteil vom Hvt (kleinen Roboter die fahren und die dinger ich rausholen können): man schafft nur ein Magazin
+-> wollen die nicht 
+
+Deswegen magazinwägen 4 magazine auf 2 stockwerke -> dr grüne Österreicher kanns fhren
+
+Problem: keine ahnung wie man die magazine in die Wagen bekommen
+
+Wie schaffen wir es 4 magazine oder 2 oder 3 weil das los endet in die Magazinwägen zu bekommn, so dass der grüne die weiterverarbeiten kann
+
+Man sollte es versuchen den grünen nicht baulich zu verändert. 
+
+4000 Wägen haben die, finanzieller Riesenaufwand 
+
+
+
+
+
+Wenn wir es schaffen die magazine auf die wägen bekommen, wäre es sehr schön wie an die Leiterplatten am besten Puffert
+Wie groß muss der Puffer sein
+Wie viel nimmt das backend ab
+Wie viel werden hergestellt 
+Bekommen wir vom Wölfl
+
+
+Was brauchen wir un des drauf zu bekommen
+Wie viel Platz braucht man
+Wie viel Puffer
+Wie entladen
+Wie geht's zurück in die Linie
+
+23 Ziel 
+
+1500€ bis 10000€ schaden pro magazine wenns kaputt geht
+
+5mm Genauigkeit 
+
+Räder dürfen nicht nach innen drehen -> da gibt es so schienen am boden 
+
+Den langen Weg macht der Roboter, das letzte Stück der Mitarbeiter 
+
+Anlage blinkt wenn voll ist und dann sieht der Mitarbeiter und dann kommt er
+
+Man könnte eine Schnittstelle zu den Manschinen aufbauen da die Frage da sein. Das System weiß wie viel drinne ist und wann es voll ist. Manchmal voll manchmal sogar halbvoll
+
+Volle magazine kommen auf der anderen seite der Linie wieder rein
+
+
+Baugruppen für den nächsten 24 Stunden gebraucht wrden, werden ziwschengelagert. Mitarbeiter tun das händisch auf dinger drauf (maybe nicht true) und der Roboter nimmt es dann 
+
+Roboter gehen nicht mehr, weil die sich gegenseitig blockieren können
+
+Am scan ist n digitaler zwilling von den magazinen und man weiß wann braucht man es wo. Gibt alle Daten 
+
+
+
+
+
+
+
+
+
+
+Zusammenfassend: sehr dankbar für ein variables Konzept wo die magazine vollgetankt in die wägen rein kommen aber auch wieder von jeden Wagen ind die eingabestatuonen voll automatisch rein kommen (des am anfang wo es rei kommt) 
+
+Und wenn es nucht mehr im Smt gebraucht wird wie puffert man am besten? 
+
+Speichert man in einzelmagazine oder blablabla
+
+
+Automatierung und Digitalisierung 
+
+
+Tobias ich habe was gefunden was die magazine in doe Wagen haben und die Puffer sehen so aus , ist trotzdem okay
+
+Wichtigste: habt Spaß, keine Grenzen, grüße wiese, werden gegen Wand laufen, nicht abschrecken 
+
+Wunsch: im Januar ist die Frau bornemann 50% dabei, Tobias Chef ist da, HR dabei, Markus und chef sind dabei -> seids Manager kein Spaß voll seriös und ernst meinen. Präsi müssen sitzen
+
+Innovation und Blickwinkel. Rechnen und Automatisieren 
+
+Gewichtsverteilung der magazine gleich
+
+Ist es bekannt in welche Art von Eingabestelle es ist wenn das magazin ankommt. 
+
+Welche Arten von Eingabestellen gibt es? 
+
+Linien Aufteilung (linie 1 bis 20 oder so)

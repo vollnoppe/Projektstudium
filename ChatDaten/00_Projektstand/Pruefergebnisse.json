@@ -1,0 +1,71 @@
+{
+  "stand": "2026-10-29",
+  "bestanden": true,
+  "pruefungen": [
+    {
+      "pruefung": "Originale unverändert",
+      "bestanden": true,
+      "nachweis": "20 SHA-256-Vergleiche; Abweichungen: []"
+    },
+    {
+      "pruefung": "17 Bildkopien und eindeutige Klassifikation",
+      "bestanden": true,
+      "nachweis": "Bildkopien mit Originalprüfsummen verglichen; Abweichungen: []"
+    },
+    {
+      "pruefung": "Dokumentationsumfang",
+      "bestanden": true,
+      "nachweis": "14 Kerndokumente und AGENTS.md vorhanden"
+    },
+    {
+      "pruefung": "Lokale Dokumentverknüpfungen",
+      "bestanden": true,
+      "nachweis": "Fehlende Ziele: []"
+    },
+    {
+      "pruefung": "Alle Lose und Zeittexte erhalten",
+      "bestanden": true,
+      "nachweis": "51714 Exportzeilen, 51714 Quellzeilen; LOTID, QUELLZEILE und REALSTART zeilenweise verglichen"
+    },
+    {
+      "pruefung": "Mengen und Lücken erhalten",
+      "bestanden": true,
+      "nachweis": "Quelle und Export: 20175629 bekannte Panel-Bearbeitungsvorgänge; 2 Mengenlücken"
+    },
+    {
+      "pruefung": "Unabhängige Aggregationssummen",
+      "bestanden": true,
+      "nachweis": "8 Tabellen gegen Quellmenge, Loszahl und Fehlmengen geprüft; Abweichungen: []"
+    },
+    {
+      "pruefung": "Backend-Dublette transparent bereinigt",
+      "bestanden": true,
+      "nachweis": "2476 Quellzeilen; 2475 unterschiedliche Zeilen; 2475 Exportzeilen"
+    },
+    {
+      "pruefung": "Backend-Abdeckung ohne Mengenvervielfachung",
+      "bestanden": true,
+      "nachweis": "559 BOARDTYPE, 154 mit mehreren möglichen Linien; Loszahl über alle Produkte erhalten"
+    },
+    {
+      "pruefung": "Modelllücken bleiben sichtbar",
+      "bestanden": true,
+      "nachweis": "51714 Modellzeilen; keine Ergebniszahl trotz fehlender Menge/Kapazität: True"
+    },
+    {
+      "pruefung": "Quellenformeln aus Basiswerten nachgerechnet",
+      "bestanden": true,
+      "nachweis": "0 Abweichungen in dokumentierten Zeit-/Mengenfeldern; gespeicherte Ergebnisse mit eigener Rechnung verglichen"
+    },
+    {
+      "pruefung": "Vier lesbare Diagrammdateien",
+      "bestanden": true,
+      "nachweis": "4 PNG; Größe und deckender weißer Hintergrund geprüft. Sichtprüfung wird zusätzlich dokumentiert."
+    },
+    {
+      "pruefung": "Fachliche Modelltests",
+      "bestanden": true,
+      "nachweis": "..................\n----------------------------------------------------------------------\nRan 18 tests in 0.079s\n\nOK"
+    }
+  ]
+}

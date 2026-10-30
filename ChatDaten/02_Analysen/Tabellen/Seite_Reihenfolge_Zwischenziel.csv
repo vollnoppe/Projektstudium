@@ -1,0 +1,8 @@
+﻿Order,SIDE,INTERMEDIATETARGET,lose
+BottomFirst,Bottom,0,26
+BottomFirst,Bottom,1,15090
+BottomFirst,Top,0,15486
+NoOrder,Top,0,4303
+TopFirst,Bottom,0,4592
+TopFirst,Top,0,7676
+TopFirst,Top,1,4541

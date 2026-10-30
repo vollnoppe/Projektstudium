@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="850" height="720" preserveAspectRatio="xMinYMin meet" viewBox="0 0 850 720" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="850" height="720"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-720)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="850" height="720" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="24" y="693" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,1386) scale(1,-1)">Linienprofil nach dokumentierten Losstarts</text>
+			<text x="24" y="673" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,1346) scale(1,-1)">Je Losstart zugeordnete Panel-Bearbeitungsvorgänge. Keine Magazinfahrten oder eindeutigen physischen Panels.</text>
+			<g transform="">
+				<g transform="">
+					<rect x="80.0" y="68.95833333333333" width="95.87114093959732" height="15.833333333333329" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="92.70833333333333" width="102.19597315436243" height="15.833333333333329" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="116.45833333333333" width="117.34228187919462" height="15.833333333333329" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="140.20833333333334" width="124.0" height="15.833333333333343" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="163.95833333333334" width="147.8013422818792" height="15.833333333333343" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="187.70833333333334" width="151.21342281879194" height="15.833333333333343" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="211.45833333333334" width="158.45369127516778" height="15.833333333333343" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="235.20833333333334" width="163.1973154362416" height="15.833333333333343" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="258.9583333333333" width="164.7785234899329" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="282.7083333333333" width="168.35704697986577" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="306.4583333333333" width="169.35570469798657" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="330.2083333333333" width="172.01879194630874" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="353.9583333333333" width="172.26845637583892" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="377.7083333333333" width="174.93154362416107" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="401.4583333333333" width="179.50872483221474" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="425.2083333333333" width="184.0026845637584" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="448.9583333333333" width="203.06040268456377" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="472.7083333333333" width="209.55167785234903" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="496.4583333333333" width="212.71409395973154" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="520.2083333333334" width="214.7114093959732" height="15.833333333333371" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="543.9583333333334" width="223.61610738255035" height="15.833333333333371" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="567.7083333333334" width="236.51543624161076" height="15.833333333333371" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="591.4583333333334" width="248.24966442953018" height="15.833333333333371" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<rect x="80.0" y="615.2083333333334" width="310.0" height="15.833333333333371" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,49%,63%); fill-rule: evenodd;"/>
+					<g transform=""/>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 80,65 L 80,635 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 80,65 L 75,65 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,88.75 L 75,88.75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,112.5 L 75,112.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,136.25 L 75,136.25 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,160 L 75,160 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,183.75 L 75,183.75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,207.5 L 75,207.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,231.25 L 75,231.25 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,255 L 75,255 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,278.75 L 75,278.75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,302.5 L 75,302.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,326.25 L 75,326.25 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,350 L 75,350 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,373.75 L 75,373.75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,397.5 L 75,397.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,421.25 L 75,421.25 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,445 L 75,445 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,468.75 L 75,468.75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,492.5 L 75,492.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,516.25 L 75,516.25 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,540 L 75,540 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,563.75 L 75,563.75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,587.5 L 75,587.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,611.25 L 75,611.25 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 80,635 L 75,635 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,75,76.875)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT24</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,100.625)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT14</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,124.375)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT09</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,148.125)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT07</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,171.875)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT18</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,195.625)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT06</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,219.375)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT04</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,243.125)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT08</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,266.875)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT15</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,290.625)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT21</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,314.375)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT05</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,338.125)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT19</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,361.875)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT03</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,385.625)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT20</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,409.375)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT17</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,433.125)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT23</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,456.875)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT12</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,480.625)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT16</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,504.375)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT10</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,528.125)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT22</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,551.875)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT01</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,575.625)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT11</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,599.375)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT13</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,75,623.125)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT02</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 80,65 L 390,65 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 80,65 L 80,60 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 163.221477,65 L 163.221477,60 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 246.442953,65 L 246.442953,60 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 329.66443,65 L 329.66443,60 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,80,60)">
+							<text x="-2.0" y="-8.0" style="font-family: Times-Roman; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-16) scale(1,-1)">0</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,163.221477,60)">
+							<text x="-8.0" y="-8.0" style="font-family: Times-Roman; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-16) scale(1,-1)">1000</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,246.442953,60)">
+							<text x="-8.0" y="-8.0" style="font-family: Times-Roman; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-16) scale(1,-1)">2000</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,329.66443,60)">
+							<text x="-8.0" y="-8.0" style="font-family: Times-Roman; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-16) scale(1,-1)">3000</text>
+						</g>
+					</g>
+				</g>
+			</g>
+			<text x="80" y="655" style="font-family: Times-Roman; font-size: 10px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,1310) scale(1,-1)">Dokumentierte Losstarts</text>
+			<g transform="">
+				<g transform="">
+					<rect x="480.0" y="68.95833333333333" width="102.96371490618208" height="15.833333333333329" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="92.70833333333333" width="124.81245020075926" height="15.833333333333329" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="116.45833333333333" width="167.5066477104067" height="15.833333333333329" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="140.20833333333334" width="187.00157795241148" height="15.833333333333343" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="163.95833333333334" width="183.09527864139864" height="15.833333333333343" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="187.70833333333334" width="200.01845891855578" height="15.833333333333343" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="211.45833333333334" width="205.0554080022498" height="15.833333333333343" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="235.20833333333334" width="231.91203305888416" height="15.833333333333343" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="258.9583333333333" width="234.64748386895178" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="282.7083333333333" width="178.75914353117628" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="306.4583333333333" width="207.57533551017855" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="330.2083333333333" width="216.21491399378192" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="353.9583333333333" width="173.99341478275812" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="377.7083333333333" width="235.3080991141594" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="401.4583333333333" width="224.66342743762402" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="425.2083333333333" width="169.18482353492584" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="448.9583333333333" width="195.80485728123483" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="472.7083333333333" width="208.33281516084185" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="496.4583333333333" width="310.0" height="15.833333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="520.2083333333334" width="222.2033137000641" height="15.833333333333371" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="543.9583333333334" width="174.167286390551" height="15.833333333333371" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="567.7083333333334" width="273.9042057899917" height="15.833333333333371" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="591.4583333333334" width="278.12555657974906" height="15.833333333333371" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<rect x="480.0" y="615.2083333333334" width="180.50052338025534" height="15.833333333333371" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,56%,21%); fill-rule: evenodd;"/>
+					<g transform=""/>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 480,65 L 480,635 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 480,65 L 475,65 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,88.75 L 475,88.75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,112.5 L 475,112.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,136.25 L 475,136.25 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,160 L 475,160 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,183.75 L 475,183.75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,207.5 L 475,207.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,231.25 L 475,231.25 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,255 L 475,255 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,278.75 L 475,278.75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,302.5 L 475,302.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,326.25 L 475,326.25 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,350 L 475,350 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,373.75 L 475,373.75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,397.5 L 475,397.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,421.25 L 475,421.25 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,445 L 475,445 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,468.75 L 475,468.75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,492.5 L 475,492.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,516.25 L 475,516.25 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,540 L 475,540 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,563.75 L 475,563.75 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,587.5 L 475,587.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,611.25 L 475,611.25 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 480,635 L 475,635 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,475,76.875)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT24</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,100.625)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT14</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,124.375)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT09</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,148.125)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT07</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,171.875)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT18</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,195.625)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT06</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,219.375)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT04</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,243.125)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT08</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,266.875)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT15</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,290.625)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT21</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,314.375)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT05</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,338.125)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT19</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,361.875)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT03</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,385.625)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT20</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,409.375)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT17</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,433.125)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT23</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,456.875)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT12</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,480.625)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT16</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,504.375)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT10</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,528.125)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT22</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,551.875)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT01</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,575.625)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT11</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,599.375)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT13</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,475,623.125)">
+							<text x="-27.504" y="-3.6000000000000005" style="font-family: Times-Roman; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-7) scale(1,-1)">SMT02</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 480,65 L 790,65 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 480,65 L 480,60 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 601.080507,65 L 601.080507,60 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 722.161014,65 L 722.161014,60 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,480,60)">
+							<text x="-2.0" y="-8.0" style="font-family: Times-Roman; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-16) scale(1,-1)">0</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,601.080507,60)">
+							<text x="-5.0" y="-8.0" style="font-family: Times-Roman; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-16) scale(1,-1)">0.5</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,722.161014,60)">
+							<text x="-2.0" y="-8.0" style="font-family: Times-Roman; font-size: 8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-16) scale(1,-1)">1</text>
+						</g>
+					</g>
+				</g>
+			</g>
+			<text x="480" y="655" style="font-family: Times-Roman; font-size: 10px;fill: rgb(9%,20%,29%); stroke:none;" transform="translate(0,1310) scale(1,-1)">Panel-Bearbeitungsvorgänge in Mio.</text>
+		</g>
+	</g>
+</svg>

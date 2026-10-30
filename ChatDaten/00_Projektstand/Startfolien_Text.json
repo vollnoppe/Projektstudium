@@ -1,0 +1,67 @@
+[
+  {
+    "folie": 1,
+    "text": [
+      "Projektstudium",
+      "1",
+      "Projektstudium | Gruppe C | Aumovio – Magazinlogistik SMT"
+    ]
+  },
+  {
+    "folie": 2,
+    "text": [
+      "Projektstudium | Gruppe C | ",
+      "Aumovio",
+      " – Magazinlogistik SMT",
+      "2",
+      "Manuelle Magazinübergabe im Werk Regensburg",
+      "Ausgangssituation bei AUMOVIO",
+      "4.000 Wagen",
+      "->Änderungen",
+      "teuer ",
+      "Beschädigungsrisiko",
+      "-> 1.500 bis 10.000 €",
+      "pro Magazin",
+      "max.",
+      "4 Magazine",
+      "pro Wagen",
+      "Magazinwagen",
+      "2 Ebenen, gefahren vom AGV",
+      "SMT-Linienentlader",
+      "3 Magazinplätze, Signal bei „voll“",
+      "Übergabe heute manuell"
+    ]
+  },
+  {
+    "folie": 3,
+    "text": [
+      "Projektstudium | Gruppe C | ",
+      "Aumovio",
+      " – Magazinlogistik SMT",
+      "3",
+      "Gesamtprozess: Weg der Magazinwagen",
+      "Backend"
+    ]
+  },
+  {
+    "folie": 4,
+    "text": [
+      "Aufgabenstellung und Problemverständnis",
+      "Übergabe der Magazine automatisieren und Puffer planen",
+      "Problem 1: Übergabe",
+      "SMT-Linienentlader füllt Magazine am Linienende, Signal bei „voll“ oder Losende",
+      "Mitarbeiter räumen die Magazine in den Wagen (max. 4, 2 Ebenen) und setzen sie am Ziel wieder ein",
+      "AGV fährt nur den langen Weg, HVT-Roboter schaffen nur 1 Magazin pro Fahrt",
+      "Problem 2: Puffer",
+      "SMT-Fertigung und nächster Prozess laufen zeitlich auseinander",
+      "Offen: Menge, Wartezeit und Zuordnung (welche Baugruppe wo, wohin als Nächstes)",
+      "Rahmenbedingungen",
+      "Ca. 4.000 Wagen und AGV möglichst nicht umbauen",
+      "Schaden 1.500 bis 10.000 € pro Magazin, Genauigkeit 5 mm",
+      "Variabel: 2 bis 4 Magazine pro Wagen, Magazin leer, teilweise oder ganz gefüllt",
+      "Roboter dürfen sich nicht blockieren",
+      "Projektstudium | Gruppe C | Aumovio – Magazinlogistik SMT",
+      "4"
+    ]
+  }
+]

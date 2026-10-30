@@ -1,0 +1,18 @@
+parameter,einheit,wert,status,erforderliche_quelle
+betroffene_stationen,Anzahl,,offen,Stationsinventar mit Ein- und Ausgabe
+betroffene_wagen,Anzahl,,offen,Wagenbestand und Variantenanteile
+magazintransfers_pro_jahr,Transfers/Jahr,,offen,Echte Ereignisdaten nach Richtung
+wagenwechsel_pro_jahr,Wechsel/Jahr,,offen,Echte Ereignisdaten getrennt von Magazinhandling
+aktive_zeitersparnis_magazin,s/Transfer,,offen,Zeitaufnahme Ist minus Soll ohne Doppelzählung
+aktive_zeitersparnis_wagen,s/Wechsel,,offen,Zusätzlicher Wechselaufwand ohne Magazinhandling
+stundensatz,EUR/h,,offen,Betrieblicher Bewertungssatz
+zahlungswirksamer_anteil,Anteil 0 bis 1,,offen,Realisierbare Kostenwirkung getrennt von freier Kapazität
+investition_v1,EUR,,offen,Vergleichbares Gesamtangebot
+investition_v2,EUR,,offen,Vergleichbares Gesamtangebot
+investition_v3,EUR,,offen,Vergleichbares Gesamtangebot einschließlich Wagen
+laufende_mehrkosten_v1,EUR/Jahr,,offen,Wartung Energie Betrieb und verbleibende Bedienung
+laufende_mehrkosten_v2,EUR/Jahr,,offen,Wartung Energie Betrieb und verbleibende Bedienung
+laufende_mehrkosten_v3,EUR/Jahr,,offen,Wartung Energie Betrieb und verbleibende Bedienung
+vermeidbare_qualitaetsverluste,EUR/Jahr,,offen,Belastbare Schadenbasis und nachgewiesene Reduktion
+vermeidbare_stillstandskosten,EUR/Jahr,,offen,Betriebliche Bewertung ohne Doppelzählung des Durchsatznutzens
+vermeidbare_flaechenkosten,EUR/Jahr,,offen,Tatsächlich wirtschaftlich nutzbare Fläche

@@ -1,0 +1,4 @@
+﻿typ,blatt,quellzeile,schluessel,hinweis
+Menge fehlt,SMD Lots,1317,3378259535,"REALAMOUNT und NUMBEROFPANELSINLOT leer; Datensatz erhalten, Mengensumme unvollständig"
+Menge fehlt,SMD Lots,33097,5693849689,"REALAMOUNT und NUMBEROFPANELSINLOT leer; Datensatz erhalten, Mengensumme unvollständig"
+Exakte Dublette,Backend-Productdata,1513,A3C1264310010,Alle 15 benannten Quellfelder identisch; nur abgeleitete Mappingtabelle dedupliziert

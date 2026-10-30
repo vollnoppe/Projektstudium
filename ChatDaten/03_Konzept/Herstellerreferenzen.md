@@ -1,0 +1,20 @@
+# Technische Herstellerreferenzen
+
+Recherche: 29.10.2026. Ausschließlich öffentlich zugängliche Herstellerunterlagen. Keine Herstelleranfragen, Formulare oder Übermittlung von Betriebsdaten. Die Referenzen belegen verfügbare technische Prinzipien; sie identifizieren keine installierten Modelle und bestätigen keine schlüsselfertige Lösung für die Aumovio-Wagen.
+
+| ID | Hersteller / Quelle | Gesicherter, begrenzter Beitrag | Bedeutung und Grenze |
+|---|---|---|---|
+| H01 | [ASYS VEGO AES 03 Speed, Datenblatt, S. 1–2](https://www.asys-group.com/fileadmin/user_upload/public/Marketing/Products/Handling/VEGO/Linienbeladen_Linienentladen/Documents/ASYS_VEGO_Dynamic_AES03Speed_DS_E.pdf) | Beschreibt eine feste Magazinplattform, eine Option für Roboterhandhabung und Plattformkonfigurationen für mehrere Magazine. | Anknüpfung an zugängliche Stationsübergaben. Die PCB-Zuführung aus einem Magazin ist von der Bewegung des gesamten Magazins zu unterscheiden. Die angegebenen Maschinenzyklen sind keine nachgewiesenen Wagen-/Magazintransferzeiten unseres Konzepts. |
+| H02 | [NUTEK NTA Triple Magazine Line Unloader, AGV/AIV ready](https://nutek-sg.com/products/nta-triple-magazine-line-unloader-agv-or-aiv-ready/) | Beschreibt eine stationäre Magazinplattform für AGV/AIV-Beladung, Hebe-/Querförderung, Kapazitätssignal und mögliche Netzwerkschnittstellen. | Zeigt, dass der gesamte Magazinwechsel als Automatisierungsschnittstelle vorgesehen werden kann. „Ready“ ersetzt keine Prüfung von Wagengeometrie, Implementierung, Lieferoptionen und installierter Software. Kein Nachweis für vier Wagenplätze auf zwei Ebenen im Bestand. |
+| H03 | [AGILOX ONE, Herstellerseite](https://www.agilox.net/produkt/agilox-one/) | Beschreibt Ladungsträgeroptionen, Fahrzeugvarianten und optionale Funktionen. | Orientierung für Fragen an den Bestandsverantwortlichen. Die konkrete Aumovio-Ausführung ist unbekannt; veröffentlichte Lasten, Geschwindigkeiten und Stationshöhen werden nicht als lokale Auslegungswerte übernommen. |
+| H04 | [ASYS aktuelle GenS-Linienbelader/-entlader](https://www.asys-group.com/de/smt-loesungen/handling/leiterplatten-handling/linienbeladen-linienentladen) | Für AES03/AMS03 Speed nennt der Hersteller bei GenS Pro autonomen Magazinwechsel durch AMR und automatische Magazinklemmung. | Direkter Beleg für die kommerziell angebotene Funktion des automatisierten Magazinwechsels. Die ebenfalls genannte Shuttle-Hubmechanik bewegt Leiterplatten innerhalb der Station; sie ist kein Beleg für genau unseren externen Ganzmagazin-Hubtransfer zum Wagen. |
+
+## Konsequenz für die Ausarbeitung
+
+Für V1/V2 ist bei vorhandenen Stationen zu klären, ob eine externe Ganzmagazinübergabe bereits vorgesehen oder nachrüstbar ist. Als Angebot ist immer der vollständige Ablauf zwischen Maschinenaufnahme, Wagen, Zielstation und Steuerung zu beschreiben. Eine isolierte PCB-Bestückungs-/Entnahmemaschine erfüllt diesen Umfang nicht automatisch. Aktuelle Preise und Lieferzeiten wurden nicht ermittelt; es liegen keine Angebote vor.
+
+## Einordnung von V1 in die Industrie
+
+Ergänzung vom 29.10.2026 zur Nutzerfrage, ob ähnliche Ansätze typisch sind. H02 und H04 belegen, dass automatischer Magazinwechsel an SMT-Stationen beziehungsweise die Magazinübergabe an fahrerlose Fahrzeuge kommerziell angebotene Funktionen sind. Das unterstützt die Einordnung als etabliertes technisches Funktionsprinzip. Es wurden keine Marktanteile oder belastbaren Verbreitungsstatistiken ermittelt.
+
+Der konkrete Aufbau von V1 mit einer stationären externen Hub-/Verschiebeübergabe zu vier Plätzen auf zwei Ebenen vorhandener Aumovio-Wagen bleibt unsere Konzeptableitung. Die genannten Quellen bestätigen kein passendes schlüsselfertiges Produkt für diesen Bestand. Die kundenspezifische Integrationsleistung betrifft insbesondere Wagenpositionierung, Entriegelung/Sicherung, Spalt- und Höhenausgleich, Zugriff auf beide Ebenen und die Verbindung der Quellen-/Zielstationen mit der Disposition. Die bedingte Priorisierung von V1 bleibt unverändert; F01/F03/F07/F09/F13 sind weiter offen.

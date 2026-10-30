@@ -1,0 +1,63 @@
+{
+  "stand": "2026-10-29",
+  "original_sha256": "370de2d3d094c60b1431caca2e576291da4abf23bee8112ff4de667d94c99efd",
+  "smd_lose": 51714,
+  "smd_spalten": 23,
+  "backend_zeilen_roh": 2476,
+  "backend_zeilen_bereinigt": 2475,
+  "zeitraum_von": "2024-07-01T00:29:13.617000",
+  "zeitraum_bis": "2026-06-30T23:12:59.724795200",
+  "zeitzone": "nicht im Datensatz bestätigt",
+  "linien": 24,
+  "boardtypes": 559,
+  "backend_linien": 53,
+  "panels_bearbeitungsvorgaenge_bekannt": 20175629,
+  "mengenlose_lose": 2,
+  "lotid_dubletten": 0,
+  "backend_exakte_dubletten": 1,
+  "panelmedian": 399.0,
+  "panel_p95": 875.0,
+  "panelmaximum": 2265.0,
+  "lose_mit_backend_mapping": 44398,
+  "lose_ohne_backend_mapping": 7316,
+  "boardtypes_mit_backend_mapping": 406,
+  "boardtypes_ohne_backend_mapping": 153,
+  "boardtypes_mit_mehreren_backend_linien": 154,
+  "boardtypes_mit_mehreren_default_linien": 45,
+  "zwischenziel_markiert": 19631,
+  "zwischenziel_gleiche_linie": 10590,
+  "quellenformel_abweichungen_smd": {
+    "OISNETTIMEPERPANELSEC": 0,
+    "OIBCYCLETIMESEC": 0,
+    "AVGTARGETOISNETTIMEPERPANELSEC": 0,
+    "AVGTARGETOIBCYCLETIMESEC": 0,
+    "RELEVANTNETTIMESEC": 0,
+    "RELEVANTTARGETNETTIMESEC": 0,
+    "Stunde_vs_REALSTART": 0,
+    "REALAMOUNT_vs_Panels_mal_Nutzen": 0
+  },
+  "quellenformel_abweichungen_backend": {
+    "netto": 0,
+    "brutto": 0
+  },
+  "modell_berechenbare_lose": 0,
+  "kapazitaetsschluessel": 1000,
+  "ausgabe_csv_trenner": ",",
+  "kontrollen": {
+    "monat_lose": 51714,
+    "tag_lose": 51714,
+    "stunde_lose": 51714,
+    "linie_lose": 51714,
+    "produkt_lose": 51714,
+    "monat_panels": 20175629,
+    "tag_panels": 20175629,
+    "stunde_panels": 20175629
+  },
+  "laufzeitumgebung": {
+    "python": "3.12.14",
+    "pandas": "3.0.1",
+    "openpyxl": "3.1.5",
+    "reportlab": "4.4.9",
+    "png_renderer": "Sharp im gebündelten Node-Runtime"
+  }
+}
